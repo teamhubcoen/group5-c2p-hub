@@ -1,0 +1,214 @@
+{
+  "hub": {
+    "name": "C2P Hub",
+    "full_name": "Concept-to-Product Hub",
+    "department": "Department of Computer Engineering",
+    "institution": "Ahmadu Bello University, Zaria",
+    "location": "Ground Floor, Department of Computer Engineering Building, ABU Zaria",
+    "email": "c2ptechhub@abu.edu.ng",
+    "office_hours": "Mon – Fri, 9:00 AM – 5:00 PM",
+    "tagline": "From concept to product, built by students.",
+    "mission": "C2P Hub exists to help Computer Engineering students turn coursework ideas into working prototypes - through mentorship, lab access, and a peer community that ships."
+  },
+  "stats": [
+    {
+      "id": "st-001",
+      "label": "Active Members",
+      "value": "60+"
+    },
+    {
+      "id": "st-002",
+      "label": "Projects Prototyped",
+      "value": "25+"
+    },
+    {
+      "id": "st-003",
+      "label": "Workshops Run",
+      "value": "12"
+    }
+  ],
+  "programs": [
+    {
+      "id": "prog-001",
+      "title": "AI & Data Science Track",
+      "description": "A guided track covering Python, machine learning fundamentals, and computer vision, with a capstone model or application built by each participant."
+    },
+    {
+      "id": "prog-002",
+      "title": "Embedded Systems & IoT Track",
+      "description": "Hands-on work with microcontrollers, sensors, and connected devices - from breadboard prototypes to functioning IoT nodes."
+    },
+    {
+      "id": "prog-003",
+      "title": "Product Design & Prototyping",
+      "description": "A short programme on turning a rough idea into a testable prototype: problem framing, quick builds, and peer feedback loops."
+    },
+    {
+      "id": "prog-004",
+      "title": "Startup Incubation Programme",
+      "description": "For teams with a working prototype who want to explore taking it further - light mentorship, pitch practice, and demo day slots."
+    }
+  ],
+  "projects": [
+    {
+      "id": "hproj-001",
+      "title": "Facial Recognition Attendance System",
+      "member": "Masud Sani",
+      "track": "AI & Data Science",
+      "date": "2025-11",
+      "description": "An attendance system that uses facial recognition to identify students and log attendance automatically.",
+      "image_url": "assets/images/project-attendance-enclosure.jpg"
+    },
+    {
+      "id": "hproj-002",
+      "title": "Bear Detection System (YOLO)",
+      "member": "Masud Sani",
+      "track": "AI & Data Science",
+      "date": "2025-08",
+      "description": "An object detection system built on YOLO to identify bears in image and video feeds.",
+      "image_url": "assets/images/project-bear-detection-photo.jpg"
+    },
+    {
+      "id": "hproj-003",
+      "title": "AI-Driven Portable Water Quality Detector",
+      "member": "Femi Olorundare",
+      "track": "AI & Data Science",
+      "date": "2025-09",
+      "description": "A portable device that classifies water quality into Safe, Caution, and Unsafe categories using an AI classification model.",
+      "image_url": "assets/images/project-water-quality.svg"
+    },
+    {
+      "id": "hproj-004",
+      "title": "ParaVision",
+      "member": "Olorunfemi Grace Temitayo, Ruqayya Labbo, and Khadija Khalid",
+      "track": "AI & Data Science",
+      "date": "2026-05",
+      "description": "A computer vision system that tests for malaria from a blood sample in under 5 minutes.",
+      "achievement": "Winner, Huawei ICT Global Competition - Innovation Track, 2026",
+      "image_url": "assets/images/paravision-device.jpg"
+    }
+  ],
+  "members": [
+    {
+      "id": "mem-001",
+      "name": "Prof. M.B. Muazu",
+      "role": "Hub Coordinator",
+      "track": "All Tracks"
+    },
+    {
+      "id": "mem-001b",
+      "name": "Mal. Aliyu",
+      "role": "Assistant Hub Coordinator",
+      "track": "All Tracks"
+    },
+    {
+      "id": "mem-002",
+      "name": "I.H. Hassan",
+      "role": "AI & Data Science Lead",
+      "track": "AI & Data Science"
+    },
+    {
+      "id": "mem-003",
+      "name": "Masud Sani",
+      "role": "Member",
+      "track": "AI & Data Science"
+    },
+    {
+      "id": "mem-004",
+      "name": "M. Aliyu",
+      "role": "Embedded Systems Lead",
+      "track": "Embedded Systems & IoT"
+    },
+    {
+      "id": "mem-005",
+      "name": "B. Musa",
+      "role": "Product Design Lead",
+      "track": "Product Design & Prototyping"
+    },
+    {
+      "id": "mem-006",
+      "name": "L. Ahmad",
+      "role": "Member",
+      "track": "Embedded Systems & IoT"
+    }
+  ],
+  "gallery": [
+    {
+      "id": "gal-001",
+      "caption": "Hackathon 2026",
+      "image_url": "assets/images/gallery-hackathon-team.jpg"
+    },
+    {
+      "id": "gal-002",
+      "caption": "Demo Day",
+      "image_url": "assets/images/gallery-demo-day.jpg"
+    },
+    {
+      "id": "gal-003",
+      "caption": "Work Space",
+      "image_url": "assets/images/gallery-workspace.jpg"
+    },
+    {
+      "id": "gal-004",
+      "caption": "Prototype Expo",
+      "image_url": "assets/images/paravision-device.jpg"
+    },
+    {
+      "id": "gal-005",
+      "caption": "Team Session",
+      "image_url": "assets/images/gallery-05.svg"
+    },
+    {
+      "id": "gal-007",
+      "caption": "Huawei ICT Global Final",
+      "image_url": "assets/images/gallery-huawei-final.jpg"
+    }
+  ],
+  "events": [
+    {
+      "id": "ev-001",
+      "date": "2026-09-12",
+      "title": "C2P Hackathon 2026",
+      "description": "A 48-hour build sprint open to all Computer Engineering students, ending with a live demo to hub mentors and department staff."
+    },
+    {
+      "id": "ev-002",
+      "date": "2026-07-14",
+      "title": "COEN 554 Project Exhibition",
+      "description": "Final-year students showcased no-JavaScript, JSON-driven websites built for the COEN 554 course, including this hub site."
+    },
+    {
+      "id": "ev-003",
+      "date": "2026-05-02",
+      "title": "Embedded Vision & IoT Workshop",
+      "description": "A hands-on workshop covering ESP32-CAM, computer vision pipelines, and low-cost embedded sensing."
+    },
+    {
+      "id": "ev-004",
+      "date": "2026-02-18",
+      "title": "Hub Induction & Orientation",
+      "description": "Orientation session introducing new members to the hub's tracks, mentors, and facilities."
+    }
+  ],
+  "join": {
+    "eligibility": "Open to all registered Computer Engineering students at ABU Zaria, any level.",
+    "steps": [
+      {
+        "title": "Pick a Track",
+        "description": "Choose the track that fits you: AI & Data Science, Embedded Systems & IoT, or Product Design & Prototyping."
+      },
+      {
+        "title": "Submit the Interest Form",
+        "description": "Fill out the short interest form with your name, level, and the track you'd like to join."
+      },
+      {
+        "title": "Attend Induction",
+        "description": "Join the next induction session to meet mentors and other members."
+      },
+      {
+        "title": "Start Building",
+        "description": "Get matched with a project group or start your own, with hub mentorship along the way."
+      }
+    ]
+  }
+}

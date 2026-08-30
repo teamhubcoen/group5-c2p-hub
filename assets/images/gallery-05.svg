@@ -1,0 +1,5 @@
+<svg viewBox="0 0 400 300" xmlns="http://www.w3.org/2000/svg">
+<rect width="400" height="300" fill="#F1EAD9"/>
+<g opacity="0.9"><circle cx='140' cy='150' r='50' fill='none' stroke='#FF6B4A' stroke-width='2'/><circle cx='260' cy='150' r='50' fill='none' stroke='#241E46' stroke-width='2'/></g>
+<text x="20" y="278" fill="#6E668C" font-family="monospace" font-size="11">TEAM SESSION</text>
+</svg>
